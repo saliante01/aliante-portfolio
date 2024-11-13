@@ -1,58 +1,58 @@
 {
-  "hash": "f4e74350",
-  "configHash": "f7a9e17a",
+  "hash": "b5e66a25",
+  "configHash": "73b2c676",
   "lockfileHash": "49611261",
-  "browserHash": "bdd906ae",
+  "browserHash": "f2dae610",
   "optimized": {
     "@angular/common": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
       "file": "@angular_common.js",
-      "fileHash": "b4cea88d",
+      "fileHash": "7cf72e3e",
       "needsInterop": false
     },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "1ff2062a",
+      "fileHash": "1e412776",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "25c084a8",
+      "fileHash": "5d83e3e0",
       "needsInterop": false
     },
     "@angular/platform-browser/animations/async": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations/async.mjs",
       "file": "@angular_platform-browser_animations_async.js",
-      "fileHash": "c2b64aa0",
+      "fileHash": "3156111d",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "c8436600",
+      "fileHash": "dafdbc49",
       "needsInterop": false
     },
     "ngx-bootstrap/carousel": {
       "src": "../../../../../node_modules/ngx-bootstrap/carousel/fesm2022/ngx-bootstrap-carousel.mjs",
       "file": "ngx-bootstrap_carousel.js",
-      "fileHash": "91b73425",
+      "fileHash": "7a066895",
       "needsInterop": false
     },
     "ngx-bootstrap/modal": {
       "src": "../../../../../node_modules/ngx-bootstrap/modal/fesm2022/ngx-bootstrap-modal.mjs",
       "file": "ngx-bootstrap_modal.js",
-      "fileHash": "56b521e7",
+      "fileHash": "2fe8e7e5",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-435YMJBS": {
-      "file": "chunk-435YMJBS.js"
-    },
     "chunk-R45WLY5T": {
       "file": "chunk-R45WLY5T.js"
+    },
+    "chunk-435YMJBS": {
+      "file": "chunk-435YMJBS.js"
     },
     "browser-UM53D4YS": {
       "file": "browser-UM53D4YS.js"
