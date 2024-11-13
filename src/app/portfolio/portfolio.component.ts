@@ -44,7 +44,7 @@ export class PortfolioComponent {
       summary: 'Hackmaster connects skill providers with learners and simplifies hackathon management, offering secure payments and streamlined organization for a better user experience.',
       description: 'Hackmaster is a platform designed to bridge the gap between skill providers in various trades and hobbies and clients eager to learn. It enables experts to list their services while allowing learners to efficiently find and hire them, addressing access and organization challenges in informal education. Additionally, Hackmaster streamlines hackathon management by simplifying registration, project tracking, participant communication, and payment coordination. With secure online payment integration, it ensures a smooth and reliable experience for both organizers and participants.',
       projectLink: 'https://github.com/barbaracalderon/angular-portfolio-app',
-      pictures: ["../../assets/portfolio_01.png", "../../assets/portfolio_02.png"]
+      pictures: [""]
     }
 
   ]
