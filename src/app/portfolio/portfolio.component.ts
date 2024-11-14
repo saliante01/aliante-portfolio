@@ -35,7 +35,7 @@ export class PortfolioComponent {
       name: 'Project 78',
       summary: 'Project 78 is a first-person shooter and survival game developed with Unity and C#. It places the player in the role of our protagonist, known as "Subject 78." The story unfolds in a world affected by the outbreak of an unknown, highly contagious virus...',
       description: ' Project 78 is a first-person shooter and survival game developed with Unity and C#, with GitHub used for version control. It places the player in the role of our protagonist, known as "Subject 78." The story unfolds in a world affected by the outbreak of an unknown, highly contagious virus. As the player progresses, they will uncover secrets behind this story by finding documents and notes scattered throughout the environment.',
-      projectLink: 'https://github.com/barbaracalderon/teamtrack',
+      projectLink: 'https://github.com/armadillo554/Digital_Legends',
       pictures: ["../../assets/project78.png"]
     },
     {
@@ -43,7 +43,7 @@ export class PortfolioComponent {
       name: 'HackMaster',
       summary: 'Hackmaster connects skill providers with learners and simplifies hackathon management, offering secure payments and streamlined organization for a better user experience.',
       description: 'Hackmaster is a platform designed to bridge the gap between skill providers in various trades and hobbies and clients eager to learn. It enables experts to list their services while allowing learners to efficiently find and hire them, addressing access and organization challenges in informal education. Additionally, Hackmaster streamlines hackathon management by simplifying registration, project tracking, participant communication, and payment coordination. With secure online payment integration, it ensures a smooth and reliable experience for both organizers and participants.',
-      projectLink: 'https://github.com/barbaracalderon/angular-portfolio-app',
+      projectLink: '',
       pictures: [""]
     }
 
